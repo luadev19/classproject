@@ -1,23 +1,22 @@
-{
-    nombre Listado de ejemplo,
+
     listado [
         {
-            atributo1 aaaaa,
-            atributo2 bbbbb,
+            "atributo1": "aaaaa",
+            "atributo2": "bbbbb",
             atributo3 ccccc,
             atributo4 ddddd,
             atributo5 eeeee
         },
         {
-            atributo1 fffff,
-            atributo2 ggggg,
+            "atributo1": "fffff",
+            "atributo2": "ggggg",
             atributo3 hhhhh,
             atributo4 iiiii,
             atributo5 jjjjj
         },
         {
-            atributo1 kkkkk,
-            atributo2 lllll,
+            "atributo1": "kkkkk",
+            "atributo2": "lllll",
             atributo3 mmmmm,
             atributo4 nnnnn,
             atributo5 ooooo
